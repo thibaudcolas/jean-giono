@@ -15,3 +15,14 @@ body {
   padding: 10px;
   text-align: justify;
 }
+
+.to-top {
+  color: #666;
+  font-size:120%;
+  text-decoration: none;
+  float: right;
+}
+
+.to-top:hover {
+  color: #333;
+}
