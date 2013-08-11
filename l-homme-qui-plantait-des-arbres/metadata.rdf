@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dbpprop="http://dbpedia.org/property/"
+  xmlns:ns7="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Man_Who_Planted_Trees">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Book" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/WrittenWork" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FrenchShortStories" />
+    <rdf:type rdf:resource="http://purl.org/ontology/bibo/Book" />
+    <rdf:type rdf:resource="http://schema.org/CreativeWork" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://schema.org/Book" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1953ShortStories" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/L&#39;Homme_qui_plantait_des_arbres" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/L&#39;uomo_che_piantava_gli_alberi" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Der_Mann,_der_Bäume_pflanzte" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04b1h2" />
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Человек,_который_сажал_деревья" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/El_hombre_que_plantaba_árboles" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Man_Who_Planted_Trees" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Muž,_který_sázel_stromy" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:French_short_stories" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1953_short_stories" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Allegory" />
+    <dbpedia-owl:abstract xml:lang="en">The Man Who Planted Trees (French title L&#39;homme qui plantait des arbres), also known as The Story of Elzéard Bouffier, The Most Extraordinary Character I Ever Met, and The Man Who Planted Hope and Reaped Happiness, is an allegorical tale by French author Jean Giono, published in 1953. It tells the story of one shepherd&#39;s long and successful singlehanded effort to re-forest a desolate valley in the foothills of the Alps in Provence throughout the first half of the 20th century. The tale is quite short—only about 4000 words long. It was composed in French, but first published in English.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="zh">種樹的男人(L&#39;homme qui plantait des arbres)為法國作家讓·紀沃諾(Jean Giono)於1953年出版的短篇故事，原是應讀者文摘邀請而寫的。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">&quot;Человек, который сажал деревья&quot; (фр. L’homme qui plantait des arbres) — рассказ-аллегория французского писателя Жана Жионо, опубликованный в 1953 году, и известный также как «История Эльзеара Буффье», «Самый выдающийся человек из всех, кого я встречал» и «Человек, который сажал Надежду и пожинал Счастье». В нём говорится о некоем пастухе, который в течение первой половины XX века собственными силами успешно восстановил лес в пустынной долине в предгорьях Альп близ Прованса. Рассказ довольно короткий — около 4.000 слов.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="es">El hombre que plantaba árboles es un cuento alegórico del autor francés Jean Giono, publicado en 1953. Cuenta la historia de los esfuerzos de un pastor para convertir un desolado valle en las estribaciones de los Alpes cerca de Provenza en un bosque a lo largo de la primera mitad del siglo XX.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="de">Der Mann, der Bäume pflanzte ist eine Kurzgeschichte des französischen Autors Jean Giono aus dem Jahr 1953. In Deutschland ist sie im Sanssouci Verlag erschienen. Die Erzählung spielt in der ersten Hälfte des 20. Jahrhunderts und handelt von den langwierigen aber erfolgreichen Bemühungen eines Schäfers, eine karge Berggegend in der Provence wieder aufzuforsten.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">L&#39;Homme qui plantait des arbres est une nouvelle de langue française écrite en 1953 par l&#39;écrivain français Jean Giono pour « faire aimer à planter des arbres », selon ses termes. Il s&#39;agit de l&#39;histoire, présentée comme authentique, du berger Elzéard Bouffier, personnage pourtant de fiction, qui fait revivre sa région, localisée en Haute Provence, entre 1913 et 1947, en plantant des arbres. Écrite à la suite d&#39;une commande du magazine américain Reader&#39;s Digest, la nouvelle a eu un retentissement mondial. Elle est aujourd&#39;hui considérée comme un manifeste à part entière de la cause écologiste. Beaucoup de personnes ont cru que le personnage d&#39;Elzéard Bouffier avait vraiment existé, croyance sur laquelle Giono n&#39;a pas manqué de jouer. La nouvelle véhicule de nombreux messages : écologiques, humanistes et même politiques. L&#39;histoire d&#39;Elzéard Bouffier est en effet considérée dans la littérature écologiste comme une parabole de l&#39;action positive de l&#39;homme sur son milieu et de l&#39;harmonie qui peut s&#39;ensuivre. Le récit de Giono a donné lieu à un film d&#39;animation du même nom, réalisé par l&#39;illustrateur Frédéric Back et lu par Philippe Noiret, et qui a obtenu plus de 40 prix à travers le monde. L&#39;Homme qui plantait des arbres est aujourd&#39;hui reconnu comme une œuvre majeure de la littérature de jeunesse et elle est, à ce titre, et pour son message écologique de développement durable, étudiée en classe.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="it">L&#39;uomo che piantava gli alberi, conosciuto anche come La storia di Elzéard Bouffier è un racconto allegorico di Jean Giono, pubblicato nel 1953. È la storia di un pastore che, con impegno costante, riforestò da solo un&#39;arida vallata ai piedi delle Alpi, vicino alla Provenza, nella prima metà del XX secolo. Il racconto è piuttosto corto - 3400 parole nella traduzione italiana.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="cs">Muž, který sázel stromy je novela z roku 1953 o síle ducha od francouzského spisovatele Jeana Giona. Byla přeložena do mnoha jazyků, včetně češtiny a slovenštiny. Podle příběhu byl natočen stejnojmenný animovaný film, patřící k nejlepším dílům světové kinematografie, a který znamenal přelom ve francouzském animovaném filmu.</dbpedia-owl:abstract>
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Jean_Giono" />
+    <rdfs:label xml:lang="zh">種樹的男人</rdfs:label>
+    <rdfs:label xml:lang="en">The Man Who Planted Trees</rdfs:label>
+    <rdfs:label xml:lang="cs">Muž, který sázel stromy</rdfs:label>
+    <rdfs:label xml:lang="de">Der Mann, der Bäume pflanzte</rdfs:label>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/0/01/L&#39;Homme_qui_plantait_des_arbres.jpg" />
+    <rdfs:comment xml:lang="fr">L&#39;Homme qui plantait des arbres est une nouvelle de langue française écrite en 1953 par l&#39;écrivain français Jean Giono pour « faire aimer à planter des arbres », selon ses termes. Il s&#39;agit de l&#39;histoire, présentée comme authentique, du berger Elzéard Bouffier, personnage pourtant de fiction, qui fait revivre sa région, localisée en Haute Provence, entre 1913 et 1947, en plantant des arbres.</rdfs:comment>
+    <rdfs:comment xml:lang="cs">Muž, který sázel stromy je novela z roku 1953 o síle ducha od francouzského spisovatele Jeana Giona. Byla přeložena do mnoha jazyků, včetně češtiny a slovenštiny. Podle příběhu byl natočen stejnojmenný animovaný film, patřící k nejlepším dílům světové kinematografie, a který znamenal přelom ve francouzském animovaném filmu.</rdfs:comment>
+    <rdfs:comment xml:lang="it">L&#39;uomo che piantava gli alberi, conosciuto anche come La storia di Elzéard Bouffier è un racconto allegorico di Jean Giono, pubblicato nel 1953. È la storia di un pastore che, con impegno costante, riforestò da solo un&#39;arida vallata ai piedi delle Alpi, vicino alla Provenza, nella prima metà del XX secolo. Il racconto è piuttosto corto - 3400 parole nella traduzione italiana.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Der Mann, der Bäume pflanzte ist eine Kurzgeschichte des französischen Autors Jean Giono aus dem Jahr 1953. In Deutschland ist sie im Sanssouci Verlag erschienen. Die Erzählung spielt in der ersten Hälfte des 20. Jahrhunderts und handelt von den langwierigen aber erfolgreichen Bemühungen eines Schäfers, eine karge Berggegend in der Provence wieder aufzuforsten.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">&quot;Человек, который сажал деревья&quot; (фр. L’homme qui plantait des arbres) — рассказ-аллегория французского писателя Жана Жионо, опубликованный в 1953 году, и известный также как «История Эльзеара Буффье», «Самый выдающийся человек из всех, кого я встречал» и «Человек, который сажал Надежду и пожинал Счастье». В нём говорится о некоем пастухе, который в течение первой половины XX века собственными силами успешно восстановил лес в пустынной долине в предгорьях Альп близ Прованса.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">種樹的男人(L&#39;homme qui plantait des arbres)為法國作家讓·紀沃諾(Jean Giono)於1953年出版的短篇故事，原是應讀者文摘邀請而寫的。</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Man Who Planted Trees (French title L&#39;homme qui plantait des arbres), also known as The Story of Elzéard Bouffier, The Most Extraordinary Character I Ever Met, and The Man Who Planted Hope and Reaped Happiness, is an allegorical tale by French author Jean Giono, published in 1953. It tells the story of one shepherd&#39;s long and successful singlehanded effort to re-forest a desolate valley in the foothills of the Alps in Provence throughout the first half of the 20th century.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El hombre que plantaba árboles es un cuento alegórico del autor francés Jean Giono, publicado en 1953. Cuenta la historia de los esfuerzos de un pastor para convertir un desolado valle en las estribaciones de los Alpes cerca de Provenza en un bosque a lo largo de la primera mitad del siglo XX.</rdfs:comment>
+    <foaf:name xml:lang="en">The Man Who Planted Trees</foaf:name>
+    <foaf:name xml:lang="en">L&#39;homme qui plantait des arbres</foaf:name>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/L&#39;Homme_qui_plantait_des_arbres.jpg/200px-L&#39;Homme_qui_plantait_des_arbres.jpg" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://home.infomaniak.ch/arboretum/Man_Tree.htm" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.perso.ch/arboretum/pla.htm" />
+    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Jean_Giono" />
+    <dbpprop:genre xml:lang="en">Fiction</dbpprop:genre>
+    <dbpprop:imageCaption xml:lang="en">French cover</dbpprop:imageCaption>
+    <dbpprop:name xml:lang="en">The Man Who Planted Trees</dbpprop:name>
+    <dbpprop:pubDate rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1953</dbpprop:pubDate>
+    <dbpprop:titleOrig xml:lang="en">L&#39;homme qui plantait des arbres</dbpprop:titleOrig>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/The_Man_Who_Planted_Trees" />
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_book" />
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/The_Man_Who_Planted_Trees?oldid=494065669" />
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Man_Who_Planted_Trees" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/The_Man_Who_Planted_Trees">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_Man_Who_Planted_Trees" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elzeard_Bouffier">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Man_Who_Planted_Trees" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Man_who_Planted_Trees">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Man_Who_Planted_Trees" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elz%C3%A9ard_Bouffier">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Man_Who_Planted_Trees" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/L&#39;homme_qui_plantait_des_arbres">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_Man_Who_Planted_Trees" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/The_Man_Who_Planted_Trees">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/The_Man_Who_Planted_Trees" />
+  </rdf:Description>
+</rdf:RDF>
